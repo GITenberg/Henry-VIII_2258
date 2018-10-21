@@ -1,5 +1,5 @@
 _repo: Henry-VIII_2258
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Historical drama'
 - !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Drama'
 - !lcsh 'Henry, VIII, King of England, 1491-1547 -- Drama'
+- GITenberg
 title: Henry VIII
 url: http://www.gutenberg.org/ebooks/2258
